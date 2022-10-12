@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const docDir = path.resolve(__dirname, './doc')
+const docDir = path.resolve(__dirname, './docs')
 const buildDir = path.resolve(__dirname, './build')
 
 try {
